@@ -21,3 +21,6 @@ https://analyticsindiamag.com/how-to-use-bert-transformer-for-grammar-checking/
 
 KeyBERT is a minimal and easy-to-use keyword extraction technique that leverages BERT embeddings to create keywords and keyphrases that are most similar to a document.
 https://github.com/MaartenGr/KeyBERT
+
+Wasserstein GAN implemtation in pytorch. How to implement the loss?
+https://stackoverflow.com/questions/61390166/wasserstein-gan-implemtation-in-pytorch-how-to-implement-the-loss
